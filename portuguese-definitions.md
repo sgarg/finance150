@@ -91,299 +91,296 @@ Conta corrente é uma conta simples de banco que te permite acessar seu dinheiro
 ### Conta poupança
 Uma conta poupança, ou caderneta de poupança, é uma conta de banco que te permite guardar dinheiro recebendo uma pequena taxa de juros.
 
-### 
-Contrato de crédito
+### Contrato de crédito
+Um contrato de crédito é um documento formal que lista as condições para que uma pessoa possa receber um empréstimo.
 
-### Um contrato de crédito é um documento formal que lista as condições para que uma pessoa possa receber um empréstimo.
-Contrato de empréstimo
+### Contrato de empréstimo
+Um contrato de empréstimo simplesmente descreve os detalhes de um empréstimo.
 
-### Um contrato de empréstimo simplesmente descreve os detalhes de um empréstimo.
-Corretor de seguros
+### Corretor de seguros
+Um corretor de seguros é um profissional que pode te oferecer seguros pessoais, fornecidos por diversas prestadoras de seguros.
 
-### Um corretor de seguros é um profissional que pode te oferecer seguros pessoais, fornecidos por diversas prestadoras de seguros.
-Cotação
+### Cotação
+Uma cotação é uma estimativa de quanto um produto ou serviço vai custar. Por exemplo, você pode pedir uma cotação para consertar o seu carro e o mecânico te dirá o quanto vai custar.
 
-### Uma cotação é uma estimativa de quanto um produto ou serviço vai custar. Por exemplo, você pode pedir uma cotação para consertar o seu carro e o mecânico te dirá o quanto vai custar.
-Crédito
+### Crédito
+É o dinheiro que um banco ou provedor de cartão de crédito empresta para uma pessoa.
 
-### É o dinheiro que um banco ou provedor de cartão de crédito empresta para uma pessoa.
-Crédito disponível
+### Crédito disponível
+Crédito disponível é a quantidade de dinheiro que você ainda pode gastar pelo seu cartão de crédito. Por exemplo, se o seu limite de crédito for R$3.000 e você já tiver gasto R$500, seu crédito disponível é de R$2.500
 
-### Crédito disponível é a quantidade de dinheiro que você ainda pode gastar pelo seu cartão de crédito. Por exemplo, se o seu limite de crédito for R$3.000 e você já tiver gasto R$500, seu crédito disponível é de R$2.500
-Crédito não-tributável
+### Crédito não-tributável
+Um crédito tributário é um rendimento no qual uma pessoa não tem de pagar impostos.
 
-### Um crédito tributário é um rendimento no qual uma pessoa não tem de pagar impostos.
-Crédito rotativo
+### Crédito rotativo
+O crédito rotativo é um tipo de conta que não tem data final para ser encerrada. Um bom exemplo é o cartão de crédito: quando você não faz o pagamento total da sua fatura, seu crédito (ou o que você deve) é transferido de um período para o outro.
 
-### O crédito rotativo é um tipo de conta que não tem data final para ser encerrada. Um bom exemplo é o cartão de crédito: quando você não faz o pagamento total da sua fatura, seu crédito (ou o que você deve) é transferido de um período para o outro.
-Crédito sem juros (taxa zero)
+### Crédito sem juros (taxa zero)
+O crédito sem juros, ou taxa zero, é um empréstimo que não exige que o solicitante pague juros (geralmente por um período específico).
 
-### O crédito sem juros, ou taxa zero, é um empréstimo que não exige que o solicitante pague juros (geralmente por um período específico).
-Credor
+### Credor
+Credor é uma pessoa a quem se deve dinheiro.
 
-### Credor é uma pessoa a quem se deve dinheiro.
-Cronograma de amortização
+### Cronograma de amortização
+O cronograma de amortização refere-se a uma lista de pagamentos mensais para pagar o montante total do empréstimo.
 
-### O cronograma de amortização refere-se a uma lista de pagamentos mensais para pagar o montante total do empréstimo.
-Custo Efetivo Total
+### Custo Efetivo Total
+CET é um número único que representa a taxa percentual que você deve pagar a cada ano em um empréstimo, considerando juros encargos e despesas da operação.
 
-### CET é um número único que representa a taxa percentual que você deve pagar a cada ano em um empréstimo, considerando juros encargos e despesas da operação.
-Débito
+### Débito
+Um débito é um pagamento feito em uma conta.
 
-### Um débito é um pagamento feito em uma conta.
-Débito automático
+### Débito automático
+Débito automático significa dar permissão a uma empresa para tirar automaticamente dinheiro da sua conta bancária. Por exemplo, você pode pagar sua conta de telefone automaticamente ao configurar uma cobrança por débito automático.
 
-### Débito automático significa dar permissão a uma empresa para tirar automaticamente dinheiro da sua conta bancária. Por exemplo, você pode pagar sua conta de telefone automaticamente ao configurar uma cobrança por débito automático.
-Declaração de imposto
+### Declaração de imposto
+Uma declaração de imposto é um formulário que todas as pessoas devem preencher para registrar sua renda, fornecer outras informações sobre sua situação financeira, e enviar para a Receita Federal.
 
-### Uma declaração de imposto é um formulário que todas as pessoas devem preencher para registrar sua renda, fornecer outras informações sobre sua situação financeira, e enviar para a Receita Federal.
-Demonstrativo
+### Demonstrativo
+Demonstrativo (ou extrato) é um documento do banco que informa sua atividade financeira no período observado.
 
-### Demonstrativo (ou extrato) é um documento do banco que informa sua atividade financeira no período observado.
-Dependente
+### Dependente
+Dependente é alguém que depende de outra pessoa para suporte financeiro, por exemplo uma criança é dependente de seus responsáveis legais.
 
-### Dependente é alguém que depende de outra pessoa para suporte financeiro, por exemplo uma criança é dependente de seus responsáveis legais.
-Depósito
+### Depósito
+Um depósito é um valor que você deixa de entrada para pagar um produto. Fazer um depósito também representa o ato de colocar dinheiro em uma conta.
 
-### Um depósito é um valor que você deixa de entrada para pagar um produto. Fazer um depósito também representa o ato de colocar dinheiro em uma conta.
-Depósito a prazo
+### Depósito a prazo
+Um depósito a prazo é um depósito realizado em uma instituição financeira por um período de tempo fixo, após o qual a instituição deve devolver o montante, normalmente com correção.
 
-### Um depósito a prazo é um depósito realizado em uma instituição financeira por um período de tempo fixo, após o qual a instituição deve devolver o montante, normalmente com correção.
-Depreciação
+### Depreciação
+Depreciação é a queda no valor de algo devido à sua idade ou uso. Por exemplo, um carro usado vale menos que um carro novo devido à sua depreciação.
 
-### Depreciação é a queda no valor de algo devido à sua idade ou uso. Por exemplo, um carro usado vale menos que um carro novo devido à sua depreciação.
-Desinvestimento
+### Desinvestimento
+Um desinvestimento significa vender um ativo. Por exemplo, uma empresa pode vender uma parte de suas operações se esta não estiver funcionando bem.
 
-### Um desinvestimento significa vender um ativo. Por exemplo, uma empresa pode vender uma parte de suas operações se esta não estiver funcionando bem.
-Despesa
+### Despesa
+Dinheiro que uma pessoa gasta.
 
-### Dinheiro que uma pessoa gasta.
-Dívida
+### Dívida
+Dívida é uma obrigação para pagar de volta o valor devido.
 
-### Dívida é uma obrigação para pagar de volta o valor devido.
-Dívida pendente
+### Dívida pendente
+Dívida pendente é a quantia financeira que uma pessoa ainda precisa pagar para zerar sua dívida.
 
-### Dívida pendente é a quantia financeira que uma pessoa ainda precisa pagar para zerar sua dívida.
-Empréstimo
+### Empréstimo
+Empréstimo é pegar dinheiro emprestado com a necessidade de pagar de volta.
 
-### Empréstimo é pegar dinheiro emprestado com a necessidade de pagar de volta.
-Empréstimo a prazo
+### Empréstimo a prazo
+Um empréstimo a prazo é um empréstimo que você deve reembolsar dentro de um determinado período de tempo, geralmente pré-estabelecido.
 
-### Um empréstimo a prazo é um empréstimo que você deve reembolsar dentro de um determinado período de tempo, geralmente pré-estabelecido.
-Empréstimo garantido
+### Empréstimo garantido
+Um empréstimo garantido é um tipo especial de empréstimo garantido contra um determinado bem. Se a pessoa não conseguir fazer os reembolsos, o credor pode tomar posse do bem.
 
-### Um empréstimo garantido é um tipo especial de empréstimo garantido contra um determinado bem. Se a pessoa não conseguir fazer os reembolsos, o credor pode tomar posse do bem.
-Empréstimo não garantido
+### Empréstimo não garantido
+Um empréstimo não garantido é um empréstimo que não está protegido por um bem em particular. Isso significa que o credor não pode tomar posse de um ativo seu no caso de você não poder pagar pelo empréstimo.
 
-### Um empréstimo não garantido é um empréstimo que não está protegido por um bem em particular. Isso significa que o credor não pode tomar posse de um ativo seu no caso de você não poder pagar pelo empréstimo.
-Empréstimo Pessoal
+### Empréstimo Pessoal
+É um tipo de empréstimo que a pessoa pode usar para pagar qualquer coisa que ela queira.
 
-### É um tipo de empréstimo que a pessoa pode usar para pagar qualquer coisa que ela queira.
-Endosso
+### Endosso
+Um endosso é uma assinatura em um documento, e geralmente se refere à assinatura de um cheque (endossar o cheque).
 
-### Um endosso é uma assinatura em um documento, e geralmente se refere à assinatura de um cheque (endossar o cheque).
-Entrada
+### Entrada
+A entrada, ou pagamento inicial, é a primeira parcela de um item, geralmente uma casa, que você deve pagar em dinheiro no momento da aquisição.
 
-### A entrada, ou pagamento inicial, é a primeira parcela de um item, geralmente uma casa, que você deve pagar em dinheiro no momento da aquisição.
-Falência
+### Falência
+Falência significa que você é incapaz de pagar suas dívidas. Normalmente nesse caso você busca uma resolução legal para resolver suas dívidas, que pode resultar na venda de seus bens para pagá-las.
 
-### Falência significa que você é incapaz de pagar suas dívidas. Normalmente nesse caso você busca uma resolução legal para resolver suas dívidas, que pode resultar na venda de seus bens para pagá-las.
-Fiscal
+### Fiscal
+Fiscal refere-se às finanças controladas pelo governo.
 
-### Fiscal refere-se às finanças controladas pelo governo.
-Fluxo de caixa
+### Fluxo de caixa
+Fluxo de caixa é o dinheiro que entra e sai de uma empresa.
 
-### Fluxo de caixa é o dinheiro que entra e sai de uma empresa.
-Fundo de emergência
+### Fundo de emergência
+Um fundo de emergência é dinheiro que você poupa para prover segurança no caso de algo inesperado ocorrer.
 
-### Um fundo de emergência é dinheiro que você poupa para prover segurança no caso de algo inesperado ocorrer.
-Fundo de pensão
+### Fundo de pensão
+É um fundo que paga a aposentadoria dos funcionários atrelados ao fundo.
 
-### É um fundo que paga a aposentadoria dos funcionários atrelados ao fundo.
-Fundo mútuo
+### Fundo mútuo
+Um fundo mútuo é um fundo de investimento que lhe permite comprar uma cesta de diferentes ações e títulos através de um único fundo mútuo. Pense nisso como um pacote de TV a cabo: você obtém acesso a muitos canais diferentes comprando um pacote em vez de comprar cada canal individualmente.
 
-### Um fundo mútuo é um fundo de investimento que lhe permite comprar uma cesta de diferentes ações e títulos através de um único fundo mútuo. Pense nisso como um pacote de TV a cabo: você obtém acesso a muitos canais diferentes comprando um pacote em vez de comprar cada canal individualmente.
-Fundos insuficientes
+### Fundos insuficientes
+Fundos insuficientes significa que você não tem dinheiro suficiente em sua conta corrente para fazer um pagamento específico.
 
-### Fundos insuficientes significa que você não tem dinheiro suficiente em sua conta corrente para fazer um pagamento específico.
-Fundo
+### Fundo
+Um fundo é um dinheiro reservado para algum propósito.
 
-### Um fundo é um dinheiro reservado para algum propósito.
-Garantia
+### Garantia
+Uma garantia é o contrato assinado por um garantidor para pagar a dívida de alguém caso não possam pagar por conta própria.
 
-### Uma garantia é o contrato assinado por um garantidor para pagar a dívida de alguém caso não possam pagar por conta própria.
-Garantidor
+### Garantidor
+Um garantidor é aquele que, por contrato, deverá pagar a dívida de alguém caso essa pessoa não consiga pagar.
 
-### Um garantidor é aquele que, por contrato, deverá pagar a dívida de alguém caso essa pessoa não consiga pagar.
-Gestão de Recursos
+### Gestão de Recursos
+Gestão de recursos é a gestão dos seus investimentos, como ações, títulos e moeda.
 
-### Gestão de recursos é a gestão dos seus investimentos, como ações, títulos e moeda.
-Gravame
+### Gravame
+Gravame é o direito de manter algo de propriedade de alguém que lhe deva uma dívida até que esta pessoa o tenha reembolsado.
 
-### Gravame é o direito de manter algo de propriedade de alguém que lhe deva uma dívida até que esta pessoa o tenha reembolsado.
-Hipoteca
+### Hipoteca
+Hipoteca é um empréstimo que te dá a posse temporária de uma propriedade imobiliária (uma casa, por exemplo) enquanto você paga o empréstimo e os juros.
 
-### Hipoteca é um empréstimo que te dá a posse temporária de uma propriedade imobiliária (uma casa, por exemplo) enquanto você paga o empréstimo e os juros.
-Histórico de crédito
+### Histórico de crédito
+O histórico de crédito de uma pessoa demonstra quão bem essa pessoa foi capaz de pagar suas dívidas no passado. Um histórico de crédito ruim dificulta que uma pessoa consiga novos empréstimos no futuro.
 
-### O histórico de crédito de uma pessoa demonstra quão bem essa pessoa foi capaz de pagar suas dívidas no passado. Um histórico de crédito ruim dificulta que uma pessoa consiga novos empréstimos no futuro.
-Imposição legal
+### Imposição legal
+Imposição significa obter dinheiro através de um processo legal. Por exemplo: um sindicato pode conseguir impor uma taxa extra sobre salários através de uma imposição legal.
 
-### Imposição significa obter dinheiro através de um processo legal. Por exemplo: um sindicato pode conseguir impor uma taxa extra sobre salários através de uma imposição legal.
-Imposto de renda
+### Imposto de renda
+Imposto de renda é um imposto sobre a renda pessoal (física) ou comercial (jurídica).
 
-### Imposto de renda é um imposto sobre a renda pessoal (física) ou comercial (jurídica).
-Inadimplência
+### Inadimplência
+Ficar inadimplente significa deixar de pagar as parcelas do seu empréstimo ou dívida nos vencimentos previstos.
 
-### Ficar inadimplente significa deixar de pagar as parcelas do seu empréstimo ou dívida nos vencimentos previstos.
-Inflação
+### Inflação
+Inflação é o aumento no nível de preços ao longo do tempo.
 
-### Inflação é o aumento no nível de preços ao longo do tempo.
-Insolvente
+### Insolvente
+Estar insolvente significa não ter capacidade de pagar suas dívidas nas datas de seus vencimentos.
 
-### Estar insolvente significa não ter capacidade de pagar suas dívidas nas datas de seus vencimentos.
-Juros
+### Juros
+Juros é o quanto você deve pagar a mais para pegar dinheiro emprestado. Por exemplo, se um banco te faz um empréstimo de R$100, mas exige que você pague de volta R$110, os R$10 a mais são os juros.
 
-### Juros é o quanto você deve pagar a mais para pegar dinheiro emprestado. Por exemplo, se um banco te faz um empréstimo de R$100, mas exige que você pague de volta R$110, os R$10 a mais são os juros.
-Juros bruto
+### Juros bruto
+Os juros brutos são os juros totais sobre um montante antes de serem descontados os impostos.
 
-### Os juros brutos são os juros totais sobre um montante antes de serem descontados os impostos.
-Juros compostos
+### Juros compostos
+Juros compostos, ou juros sobre juros, é quando o dinheiro que você ganha de juros começa a gerar mais juros por si mesmo. Por exemplo: se você investe R$1.000 a uma taxa de 10% por ano por 10 anos, você vai terminar com R$2.590 (em vez de R$2.000), devido aos juros compostos.  
 
-### Juros compostos, ou juros sobre juros, é quando o dinheiro que você ganha de juros começa a gerar mais juros por si mesmo. Por exemplo: se você investe R$1.000 a uma taxa de 10% por ano por 10 anos, você vai terminar com R$2.590 (em vez de R$2.000), devido aos juros compostos.  
-Limite de crédito
+### Limite de crédito
+Limite de crédito é o máximo acumulado que você pode passar no seu cartão de crédito ou conta bancária.
 
-### Limite de crédito é o máximo acumulado que você pode passar no seu cartão de crédito ou conta bancária.
-Linha de crédito 
+### Linha de crédito 
+Linha de crédito se refere a um acordo com o mutuário onde o máximo que a pessoa pode pegar emprestado é o limite de crédito.
 
-### Linha de crédito se refere a um acordo com o mutuário onde o máximo que a pessoa pode pegar emprestado é o limite de crédito.
-Liquidez
+### Liquidez
+Liquidez é a habilidade e facilidade de converter um ativo em dinheiro. Por exemplo, ações tem uma ótima liquidez porque você consegue vender facilmente no mercado. Propriedades imobiliárias não são muito líquidas porque é difícil vendê-las e transformá-las em dinheiro.
 
-### Liquidez é a habilidade e facilidade de converter um ativo em dinheiro. Por exemplo, ações tem uma ótima liquidez porque você consegue vender facilmente no mercado. Propriedades imobiliárias não são muito líquidas porque é difícil vendê-las e transformá-las em dinheiro.
-Líquido 
+### Líquido 
+Líquido faz referência a uma quantia de dinheiro após descontar impostos e taxas.
 
-### Líquido faz referência a uma quantia de dinheiro após descontar impostos e taxas.
-Líquido de impostos
+### Líquido de impostos
+É o valor final após a dedução de impostos.
 
-### É o valor final após a dedução de impostos.
-Lucro bruto
+### Lucro bruto
+Lucro bruto é o lucro total de uma empresa antes de impostos.
 
-### Lucro bruto é o lucro total de uma empresa antes de impostos.
-Lucro líquido
+### Lucro líquido
+Lucro líquido é a quantia que uma empresa possui após abater custos operacionais, impostos e outras contas.
 
-### Lucro líquido é a quantia que uma empresa possui após abater custos operacionais, impostos e outras contas.
-Lump sum
+### Lump sum
+Um lump sum é um pagamento único de um investimento ou uma apólice de seguro.
 
-### Um lump sum é um pagamento único de um investimento ou uma apólice de seguro.
-Material de divulgação
+### Material de divulgação
+Um material de divulgação é um documento que explica como funciona um produto financeiro.
 
-### Um material de divulgação é um documento que explica como funciona um produto financeiro.
-Maturidade
+### Maturidade
+A maturidade é quando um investimento, política ou outro contrato atinge seu encerramento.
 
-### A maturidade é quando um investimento, política ou outro contrato atinge seu encerramento.
-Mercado de ações
+### Mercado de ações
+Mercado de ações é onde as ações são negociadas e você pode comprá-las ou vendê-las. No Brasil, o principal é a B3 (antiga BM&FBovespa).
 
-### Mercado de ações é onde as ações são negociadas e você pode comprá-las ou vendê-las. No Brasil, o principal é a B3 (antiga BM&FBovespa).
-Mês de calendário
+### Mês de calendário
+Um mês de calendário significa começar no primeiro dia e terminar no último dia do mês. Isso é diferente de se referir aos últimos 30 dias corridos.
 
-### Um mês de calendário significa começar no primeiro dia e terminar no último dia do mês. Isso é diferente de se referir aos últimos 30 dias corridos.
-Multa
+### Multa
+Multa ou taxa é o quanto o banco cobra a mais se o cliente violar o acordo pré-definido em questão.
 
-### Multa ou taxa é o quanto o banco cobra a mais se o cliente violar o acordo pré-definido em questão.
-Orçamento
+### Orçamento
+O orçamento é um registro de quanto você ganha e quanto você gasta. Isso pode ajudá-lo a tomar decisões financeiras mais inteligentes.
 
-### O orçamento é um registro de quanto você ganha e quanto você gasta. Isso pode ajudá-lo a tomar decisões financeiras mais inteligentes.
-Pagamento mínimo 
+### Pagamento mínimo 
+É o menor valor que você pode pagar na conta do cartão de crédito a cada mês.
 
-### É o menor valor que você pode pagar na conta do cartão de crédito a cada mês.
-Passivo
+### Passivo
+Passivo é o saldo de obrigações, ou dívidas, que uma pessoa tem.
 
-### Passivo é o saldo de obrigações, ou dívidas, que uma pessoa tem.
-Patrimônio líquido
+### Patrimônio líquido
+É o total de tudo o que você possui (dinheiro, poupança, propriedades, etc) menos tudo o que você deve.
 
-### É o total de tudo o que você possui (dinheiro, poupança, propriedades, etc) menos tudo o que você deve.
-Período de carência
+### Período de carência
+Período de carência é o tempo que você tem entre o dia do recebimento de uma fatura e o dia do seu vencimento, quando esta deve ser paga.
 
-### Período de carência é o tempo que você tem entre o dia do recebimento de uma fatura e o dia do seu vencimento, quando esta deve ser paga.
-PIN
+### PIN
+Um PIN é um número de quatro ou seis dígitos que você usa como senha para sacar dinheiro de um caixa eletrônico.
 
-### Um PIN é um número de quatro ou seis dígitos que você usa como senha para sacar dinheiro de um caixa eletrônico.
-Plano de gastos
+### Plano de gastos
+Um plano de gastos (ou orçamento) é um plano que ajuda você a economizar dinheiro, depender menos de financiamento e viver de acordo com suas capacidades econômicas.
 
-### Um plano de gastos (ou orçamento) é um plano que ajuda você a economizar dinheiro, depender menos de financiamento e viver de acordo com suas capacidades econômicas.
-Plano financeiro
+### Plano financeiro
+O plano financeiro é um documento que descreve seu status financeiro atual, seus objetivos financeiros e seu plano para atingir esses objetivos.
 
-### O plano financeiro é um documento que descreve seu status financeiro atual, seus objetivos financeiros e seu plano para atingir esses objetivos.
-Política
+### Política
+Uma política é apenas um plano ou acordo para os termos de uma poupança ou seguro.
 
-### Uma política é apenas um plano ou acordo para os termos de uma poupança ou seguro.
-Portfólio de investimento 
+### Portfólio de investimento 
+Um portfólio de investimento possui todos os investimentos de uma pessoa. Normalmente é composto de ações, opções, fundos e propriedades.
 
-### Um portfólio de investimento possui todos os investimentos de uma pessoa. Normalmente é composto de ações, opções, fundos e propriedades.
-Portfólio
+### Portfólio
+Um portfólio é uma coleção de ações, títulos, cotas de fundos e quaisquer outros investimentos.
 
-### Um portfólio é uma coleção de ações, títulos, cotas de fundos e quaisquer outros investimentos.
-Prêmio de seguro
+### Prêmio de seguro
+Prêmio de seguro refere-se ao valor que uma pessoa paga regularmente à companhia de seguros para garantir que ela esteja coberta.
 
-### Prêmio de seguro refere-se ao valor que uma pessoa paga regularmente à companhia de seguros para garantir que ela esteja coberta.
-Prestação mensal
+### Prestação mensal
+Prestação mensal é um pagamento que deve ser feito a cada mês.
 
-### Prestação mensal é um pagamento que deve ser feito a cada mês.
-Prestação
+### Prestação
+Uma prestação, ou parcela, é um pagamento feito em intervalos de tempo constantes, normalmente mensais, para pagar uma dívida ou empréstimo.
 
-### Uma prestação, ou parcela, é um pagamento feito em intervalos de tempo constantes, normalmente mensais, para pagar uma dívida ou empréstimo.
-Principal
+### Principal
+O principal é o montante base de dinheiro que você empresta ou investe, antes da ação de juros.
 
-### O principal é o montante base de dinheiro que você empresta ou investe, antes da ação de juros.
-Produto Interno Bruto
+### Produto Interno Bruto
+Produto Interno Bruto, ou PIB, é o valor total dos bens e serviços produzidos por um país num determinado período de tempo. Por exemplo, o PIB do Brasil em 2016 foi de R$6,3 trilhões.
 
-### Produto Interno Bruto, ou PIB, é o valor total dos bens e serviços produzidos por um país num determinado período de tempo. Por exemplo, o PIB do Brasil em 2016 foi de R$6,3 trilhões.
-Proposta
+### Proposta
+Proposta é uma oferta feita por uma empresa ou pessoa para fazer um trabalho específico por um determinado preço.
 
-### Proposta é uma oferta feita por uma empresa ou pessoa para fazer um trabalho específico por um determinado preço.
-Receita bruta
+### Receita bruta
+Receita antes de descontar impostos. 
 
-### Receita antes de descontar impostos. 
-Receita líquida
+### Receita líquida
+Receita líquida é a quantidade de dinheiro que um indivíduo ou uma empresa recebe após descontados custos e impostos.
 
-### Receita líquida é a quantidade de dinheiro que um indivíduo ou uma empresa recebe após descontados custos e impostos.
-Recessão
+### Recessão
+Uma recessão é um decréscimo da atividade econômica em um determinado período de tempo.
 
-### Uma recessão é um decréscimo da atividade econômica em um determinado período de tempo.
-Reivindicação
+### Reivindicação
+Uma reivindicação é uma ordem para obter dinheiro com base em uma apólice de seguro. Por exemplo, se você estiver em um acidente de carro, você declara uma reivindicação à sua companhia de seguros de carro para pagar ou reembolsar o dano.
 
-### Uma reivindicação é uma ordem para obter dinheiro com base em uma apólice de seguro. Por exemplo, se você estiver em um acidente de carro, você declara uma reivindicação à sua companhia de seguros de carro para pagar ou reembolsar o dano.
-Remessa
+### Remessa
+Uma remessa é um pagamento. 
 
-### Uma remessa é um pagamento. 
-Restituição
+### Restituição
+Uma restituição é quando você recebe de volta parte do que você pagou. Restituição fiscal é quando a Receita Federal retorna dinheiro que você pagou por impostos.
 
-### Uma restituição é quando você recebe de volta parte do que você pagou. Restituição fiscal é quando a Receita Federal retorna dinheiro que você pagou por impostos.
-Retorno composto anual
+### Retorno composto anual
+É a taxa anual equivalente à taxa de juros compostos.
 
-### É a taxa anual equivalente à taxa de juros compostos.
-Retorno
+### Retorno
+Retorno é o ganho ou a perda de um investimento. Por exemplo, se você investiu R$100 e seu investimento vale agora R$110, seu retorno é de 10%.
 
-### Retorno é o ganho ou a perda de um investimento. Por exemplo, se você investiu R$100 e seu investimento vale agora R$110, seu retorno é de 10%.
-Risco
+### Risco
+Risco é a probabilidade de você perder dinheiro. Todo investimento tem um pouco de risco, uns mais, outros menos.
 
-### Risco é a probabilidade de você perder dinheiro. Todo investimento tem um pouco de risco, uns mais, outros menos.
-Risco de crédito
+### Risco de crédito
+Risco de crédito é o risco de uma pessoa devedora não poder pagar sua dívida e se tornar inadimplente.
 
-### Risco de crédito é o risco de uma pessoa devedora não poder pagar sua dívida e se tornar inadimplente.
-Salário
+### Salário
+Salário é o dinheiro você ganha pelo seu trabalho.
 
-### Salário é o dinheiro você ganha pelo seu trabalho.
-Salário bruto
+### Salário bruto
+Salário bruto é o salário total antes do desconto de imposto de renda e contribuições para outros programas, como fundos de previdência.
 
-### Salário bruto é o salário total antes do desconto de imposto de renda e contribuições para outros programas, como fundos de previdência.
-Saldo	
+### Saldo	
+Saldo em geral pode significar duas coisas. Às vezes se refere a quanto dinheiro você tem em sua conta. Outras vezes, especialmente numa conta a pagar, se refere a quanto dinheiro você deve.
 
-### Saldo em geral pode significar duas coisas. Às vezes se refere a quanto dinheiro você tem em sua conta. Outras vezes, especialmente numa conta a pagar, se refere a quanto dinheiro você deve.
-Saldo remanescente
-
-### Saldo remanescente é quando a quantidade que você ainda devia na última fatura é trazido para a fatura atual.
-
+### Saldo remanescente
+Saldo remanescente é quando a quantidade que você ainda devia na última fatura é trazido para a fatura atual.
 
 ### Saque no crédito
 Um saque no crédito funciona como um saque normal mas diretamente do cartão de crédito, geralmente em um caixa eletrônico. Isso normalmente resulta em taxas de juros muito altas mas permite a obtenção de dinheiro muito rapidamente.
@@ -425,29 +422,28 @@ Taxa de retorno é o percentual que você ganha em um investimento em relação 
 São as tarifas que devem ser pagas para legalizar e finalizar uma transação, normalmente na compra de um imóvel (ex. ITBI).
 
 ### Títulos
-Um título é uma prova de que você tem uma quantia determinada a pagar ou receber e que pode ser vendida.
+Um título é uma prova de que você tem uma quantia determinada a pagar ou receber e que pode ser vendida. Títulos em geral são: ações, obrigações e opções.
 
-### Títulos em geral são: ações, obrigações e opções.
-Título do tesouro
+### Título do tesouro
+Um título do tesouro é um empréstimo ao governo, que você recebe de volta em uma determinada data no futuro, com juros.
 
-### Um título do tesouro é um empréstimo ao governo, que você recebe de volta em uma determinada data no futuro, com juros.
-Transferência de saldo
+### Transferência de saldo
+Uma transferência de saldo ocorre quando você transfere o valor que você deve em um cartão de crédito para outro cartão de crédito.
 
-### Uma transferência de saldo ocorre quando você transfere o valor que você deve em um cartão de crédito para outro cartão de crédito.
-Valor bruto
+### Valor bruto
+Bruto representa o valor total antes de serem descontados tarifas e impostos.
 
-### Bruto representa o valor total antes de serem descontados tarifas e impostos.
-Valor contábil
+### Valor contábil
+O valor contábil é o preço de um ativo fixo (por exemplo, um trator), após depreciação.
 
-### O valor contábil é o preço de um ativo fixo (por exemplo, um trator), após depreciação.
-Valor de face
+### Valor de face
+O valor da face pode significar algumas coisas, mas geralmente refere-se ao preço que você pagou por um título quando este foi emitido.
 
-### O valor da face pode significar algumas coisas, mas geralmente refere-se ao preço que você pagou por um título quando este foi emitido.
-Valor de mercado
+### Valor de mercado
+Este é o preço que você pagará por algo no mercado aberto. É o valor justo de um bem.
 
-### Este é o preço que você pagará por algo no mercado aberto. É o valor justo de um bem.
-Valor remanescente
+### Valor remanescente
+É o valor disponível em dinheiro após o cancelamento de uma apólice de seguro, geralmente um seguro de vida, antes de se tornar pagável devido a morte ou vencimento.
 
-### É o valor disponível em dinheiro após o cancelamento de uma apólice de seguro, geralmente um seguro de vida, antes de se tornar pagável devido a morte ou vencimento.
-Valor total do financiamento
+### Valor total do financiamento
 Refere-se ao valor total que você deve pagar para pedir dinheiro emprestado. Inclui os juros e quaisquer outras taxas que acompanhem o empréstimo.
