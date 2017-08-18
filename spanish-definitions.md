@@ -251,7 +251,7 @@ Interés es lo que debes pagar para pedir dinero prestado mediante un préstamo 
 Interés bruto es el interés total en los ahorros antes de deducir los impuestos.  
 
 ### Interés compuesto
-El interés compuesto es uno de los aspectos más geniales del mundo de finanzas.  Es aquél en el que el dinero que ganas con intereses empieza a generar intereses para sí mismo.  El interés compuesto es lo que te permite invertir $25 cada semana durante 25 años y terminar con XX cantidad de dinero.  
+El interés compuesto es aquél en el que el dinero que ganas con intereses empieza a generar intereses para sí mismo.  Por ejemplo: si inviertes $1000 a una tasa de interés del 10% durante 10 años, al final tendrás alrededor de $2590 (en vez de tener $2000) debido al interés compuesto.  
 
 ### Licitación 
 Licitación es una oferta dada por una empresa o una persona para realizar un trabajo por un precio fijo.  
